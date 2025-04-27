@@ -14,13 +14,14 @@ Above all else I value **community**, **sustainability**, **Égalité**.
 <img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms">
 
 Things I'm proud of:
-<!-- - [Self-Built Laptop](Laptop.html)
-- [Camera Repair](Camera.html)
+- [Visitng Parliment](Visiting-Parilment.html)
+- [EESW project](EESWreport.pdf)
+<!-- - [Camera Repair](Camera.html)
 - [This Site](ThisSite.html) -->
 
 My thoughts:
-<!-- - [Scribbled Line](ScribbledLine.html)
-- [Permacomputing](Permacomputing.html) -->
+- [Scribbled Line](ScribbledLine.html)
+<!-- - [Permacomputing](Permacomputing.html) -->
 
 <br>
 
