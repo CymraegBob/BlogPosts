@@ -14,10 +14,9 @@ Above all else I value **community**, **sustainability**, **Égalité**.
 <img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms">
 
 Things I'm proud of:
-- [Visitng Parliment](Visiting-Parilment.html)
-- [EESW project](EESWreport.pdf)
-<!-- - [Camera Repair](Camera.html)
-- [This Site](ThisSite.html) -->
+
+- [My time with PAWB](PAWB.html)
+<!-- - [This Site](ThisSite.html)  -->
 
 My thoughts:
 - [Scribbled Line](ScribbledLine.html)
