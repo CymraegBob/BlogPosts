@@ -16,6 +16,7 @@ Above all else I value **community**, **sustainability**, **Égalité**.
 Things I'm proud of:
 
 - [My time with PAWB](PAWB.html)
+- [My work with Ystumtec](Ystumtec.html)
 <!-- - [This Site](ThisSite.html)  -->
 
 My thoughts:
