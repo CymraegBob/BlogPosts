@@ -1,4 +1,4 @@
- @font-face {
+@font-face {
   font-family: eva;
   src: url("eva.otf");
 }
@@ -9,86 +9,212 @@ html{
   font-family: eva;
 }
 
-body{
-  background-color: yellow;
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
   margin: 0;
-  padding: 0;
+  background-color: #ebe0cc;
+  flex-direction: column; /* Stack rows vertically */
 }
+
+/* profile{
+  top: 0;
+  right: 0;
+} */
 
 header{
   background-color: black;
   color: white;
   margin: 0;
 
-  display: flex;
-  align-items: flex-end;
+  /* display: flex;
+  align-items: flex-end; */
   
-}
+ } 
 
-header a{
+/* header a{
   font-size: 2rem;
   margin-left: 20px;
   vertical-align: text-bottom;
-}
+} */
 
 header h1{
-   transform: rotate(-90deg);
+   
    border-bottom: 3px solid white;
    margin-right: 10px;
 }
 
+header h2{
+  transform: rotate(-5deg);
+  border-bottom: 3px solid white;
+  margin-right: 10px;
+}
+
 main{
-  display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-
-}
-
-.triTopL{
-  width: 0;
-	height: 0;
-	border-top: 0px solid black;
-	border-left: 100px solid black;
-	border-bottom: 50px solid transparent;
-	
-}
-
-.triBottomR{
-  width: 0;
-	height: 0;
-	border-top: 0px solid black;
-	border-left: 100px solid black;
-	border-bottom: 50px solid transparent;
-
-  right: 0;
-  bottom: 0;
-  position: absolute;
-  transform: rotate(180deg);
-	
+  color: black;
+  
 }
 
 nav{
-  display: flex;
-  flex-direction: row;
+  /* display: flex;
+  flex-direction: row; */
+  position: absolute;
+  left: 0;
+  top: 0;
 }
 
 .sub-bar{
   display: flex;
+  flex-direction: row;
+}
+
+.triangle {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: black;
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
+.top-left-tri {
+  /* top: 0; */
+  left: 0;
+  transform: rotate(0deg);
+}
+
+.top-right-tri {
+  /* top: 0; */
+  right: 0;
+  transform: rotate(90deg);
+}
+
+.bottom-right-tri {
+  bottom: 0;
+  right: 0;
+  transform: rotate(180deg);
+}
+
+.bottom-left-tri {
+  bottom: 0;
+  left: 0;
+  transform: rotate(270deg);
+}
+
+.gridHeader {
+  display: flex;
   flex-direction: column;
+  height: 25%; /* Make sure the grid takes up the full height */
+  justify-content: space-between; /* Distribute rows vertically */
+  box-sizing: border-box;
+}
+
+.gridBody {
+  display: flex;
+  flex-direction: column;
+  height: 75%; /* Make sure the grid takes up the full height */
+  justify-content: space-between; /* Distribute rows vertically */
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+  /* gap: 10px; */
+  justify-content: center; /* Center items horizontally */
+}
+
+.box {
+  /* background-color: #4a90e2; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: blue;
+  font-weight: bold;
+  /* border-radius: 8px; */
+}
+
+.header-top-left{
+  transform: rotate(-90deg);
+  width: 25h;
+  height: 100%;
+  color: white;
+  background-color: black;
+}
+
+.header-top-middle{
+  width: 50%;
+  height: 100%;
+  color: white;
+  background-color: black;
+}
+
+.header-top-right{
+  width: 25%;
+  height: 100%;
+}
+
+.top-left{
+  /* position: absolute; */
+  /* left: 0; */
+  width: 25%;
+  height: 20%;
+}
+
+.top-middle{
+  height: 20%;
+  width: 50%;
+}
+
+.top-right{
+  /* position: absolute; */
+  /* right: 0; */
+  width: 25%;
+  height: 20%;
+}
+
+.middle-left{
+  /* position: absolute; */
+  /* top: 0; */
+  /* left: 0; */
+  width: 25%;
+  height: 60%;
+}
+
+.middle-middle{
+  /* top: 0; */
+  width: 50%;
+  height: 60%;
+}
+
+.middle-right{
+  /* position: absolute; */
+  /* right: 0; */
+  /* top: 0; */
+  width: 25%;
+  height: 60%;
+}
+
+.bottom-left{
+  /* position: absolute; */
+  /* left: 0; */
+  width: 25%;
+  height: 20%;
+}
+
+.bottom-middle{
+  height: 20%;
+  width: 50%;
+}
+
+.bottom-right{
+  /* position: absolute; */
+  /* right: 0; */
+  width: 25%;
+  height: 20%;
 }
 
 .webring{
-  /* background-color: black; */
-  right: 0;
-  bottom: 0;
-  position: absolute;
-  transform: rotate(-25deg);
+  /* background-color: white; */
+  transform: rotate(-45deg);
 }
-
-/* .links{
-  background-color: yellow;
-  left: 0;
-  bottom: 0;
-  position: absolute;
-  
-
-} */

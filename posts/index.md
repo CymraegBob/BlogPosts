@@ -11,7 +11,7 @@ The world can be a busy mess, but it's important to focus on how we make it bett
 
 Above all else I value **community**, **sustainability**, **Égalité**.
 
-<img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms">
+<!-- <img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms"> -->
 
 Things I'm proud of:
 
@@ -20,7 +20,8 @@ Things I'm proud of:
 <!-- - [This Site](ThisSite.html)  -->
 
 My thoughts:
-- [Scribbled Line](ScribbledLine.html)
+[Quotes I like](Quotes.html)
+<!-- - [Scribbled Line](ScribbledLine.html) -->
 <!-- - [Permacomputing](Permacomputing.html) -->
 
 <br>
@@ -31,4 +32,4 @@ My thoughts:
 <br>
 <br>
 
-> If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the nav bar.
+<!-- > If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the nav bar. -->
