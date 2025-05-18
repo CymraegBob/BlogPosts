@@ -98,7 +98,7 @@ nav a:hover {
   /* background-color: #f0f0f0; */
   padding: 10px;
   border-radius: 8px;
-  box-shadow: 0 0 10px #E1D1ED;
+  box-shadow: 0 0 10px #7A40A5;
 }
 
 
@@ -107,7 +107,7 @@ nav a:hover {
   display: inline-block;
   text-align: center;
   background-color: #EDD3D1;
-  color: white;
+  color:#7A40A5;
   padding: 10px 14px;
   border-radius: 6px;
   text-decoration: none;
