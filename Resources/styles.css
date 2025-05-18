@@ -19,6 +19,7 @@ body {
   flex-direction: column;
   align-items: center;
   padding: 1em;
+  list-style-type: none;
 }
 
 .sidebar img {
@@ -53,7 +54,7 @@ nav a {
   position: relative; /* Needed for absolute pseudo-elements */
   display: inline-block;
   /* box-shadow: 0 0 10px #A678CA; */
-  list-style-type: none;
+  
 }
 
 nav a::after,
@@ -88,7 +89,7 @@ nav a:hover {
   background-color: #78C5CA;
 }
 
-links a {
+.links a {
   color: white;
   text-decoration: none;
   padding: 10px;
@@ -98,11 +99,11 @@ links a {
   position: relative; /* Needed for absolute pseudo-elements */
   display: inline-block;
   /* box-shadow: 0 0 10px #A678CA; */
-  list-style-type: none;
+  
 }
 
-nav a::after,
-nav a::before {
+.links a::after,
+.links a::before {
   content: '';
   position: absolute;
   width: 100%;
@@ -112,24 +113,24 @@ nav a::before {
   transition: transform 0.4s ease-out;
 }
 
-nav a::after {
+.links a::after {
   bottom: -5px;
   left: 0;
   transform-origin: right;
 }
 
-nav a::before {
+.links a::before {
   top: -5px;
   left: 0;
   transform-origin: left;
 }
 
-nav a:hover::after,
-nav a:hover::before {
+.links a:hover::after,
+.links a:hover::before {
   transform: scaleX(1);
 }
 
-nav a:hover {
+.links a:hover {
   background-color: #78C5CA;
 }
 
