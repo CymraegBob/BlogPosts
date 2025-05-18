@@ -13,6 +13,8 @@ Above all else I value **community**, **sustainability**, **Égalité**.
 
 <!-- <img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms"> -->
 
+[More about me](About.html)
+
 Things I'm proud of:
 
 - [My time with PAWB](PAWB.html)
@@ -20,13 +22,14 @@ Things I'm proud of:
 <!-- - [This Site](ThisSite.html)  -->
 
 My thoughts:
-[Quotes I like](Quotes.html)
+
+- [Quotes I like](Quotes.html)
 <!-- - [Scribbled Line](ScribbledLine.html) -->
 <!-- - [Permacomputing](Permacomputing.html) -->
 
 <br>
 
-[More about me](About.html)
+
 
 <br>
 <br>
