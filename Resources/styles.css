@@ -118,34 +118,54 @@ nav a:hover {
 .btn:hover {
   background-color: #DFB0AC;
 }
+.menu-toggle {
+  display: none;
+  background-color: #CA7D78;
+  color: white;
+  padding: 10px 15px;
+  font-size: 1.2em;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  z-index: 1000;
+}
 
+/* Responsive styles */
 @media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+
   .menu-toggle {
     display: block;
   }
 
   .sidebar {
     position: absolute;
-    top: 50px; /* just below the toggle button */
+    top: 50px;
     left: 0;
     width: 100%;
-    max-height: 0;
-    overflow: hidden;
     background-color: #CA7D78;
-    flex-direction: column;
-    align-items: center;
-    padding: 0 1em;
-    transition: max-height 0.3s ease-out, padding 0.3s ease-out;
-    z-index: 10;
+    overflow: hidden;
+    max-height: 0;
     opacity: 0;
     pointer-events: none;
+    transition: max-height 0.4s ease, opacity 0.4s ease;
+    z-index: 999;
+    flex-direction: column;
+    align-items: center;
   }
 
-  .sidebar.show {
-    max-height: 500px; /* adjust based on expected height */
+  .sidebar.open {
+    max-height: 1000px; /* large enough to show all content */
     opacity: 1;
-    padding: 1em;
     pointer-events: auto;
+    padding-bottom: 1em;
+  }
+
+  .content {
+    padding: 1em;
   }
 
   .sidebar img {
@@ -156,6 +176,7 @@ nav a:hover {
     flex-direction: column;
     gap: 5px;
     width: 100%;
+    align-items: center;
   }
 
   .contacts {
@@ -163,10 +184,6 @@ nav a:hover {
     flex-direction: column;
     gap: 5px;
     align-items: center;
-  }
-
-  .content {
-    padding: 1em;
   }
 
   .webring {

@@ -6,6 +6,12 @@
     <link rel="stylesheet" href="styles.css" />
     <title>Robyn Vaughan-Williams</title>
   </head>
+  <script>
+  function toggleSidebar() {
+    const sidebar = document.querySelector('.sidebar');
+    sidebar.classList.toggle('open');
+  }
+</script>
   <body>
     <button class="menu-toggle" onclick="toggleSidebar()">☰ Menu</button>
     <aside class="sidebar">
@@ -44,11 +50,5 @@
 
       </div>
     </div>
-    <script>
-  function toggleSidebar() {
-    const sidebar = document.querySelector('.sidebar');
-    sidebar.classList.toggle('show');
-  }
-</script>
   </body>
 </html>
