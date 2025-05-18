@@ -55,6 +55,15 @@ img {
   padding: 1em;
 }
 
+.sidebar {
+  padding-top: 2em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+
 .sidebar img {
   max-width: 100%;
   height: auto;
