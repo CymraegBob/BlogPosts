@@ -11,7 +11,6 @@ The world can be a busy mess, but it's important to focus on how we make it bett
 
 Above all else I value **community**, **sustainability**, **Égalité**.
 
-<!-- <img src="profilePic.jpeg" alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms"> -->
 
 [More about me](About.html)
 
