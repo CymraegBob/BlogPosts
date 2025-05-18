@@ -53,6 +53,7 @@ nav a {
   position: relative; /* Needed for absolute pseudo-elements */
   display: inline-block;
   /* box-shadow: 0 0 10px #A678CA; */
+  list-style-type: none;
 }
 
 nav a::after,
