@@ -17,6 +17,7 @@ header h1{
 
 body {
   margin: 0;
+  background-color: beige;
   font-family: Arial, sans-serif;
   display: flex;
   min-height: 100vh;
@@ -24,7 +25,7 @@ body {
 
 .sidebar {
   width: 250px;
-  background-color: #333;
+  background-color: black;
   color: white;
   display: flex;
   flex-direction: column;
