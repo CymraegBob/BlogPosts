@@ -36,4 +36,4 @@ My thoughts:
 <br>
 <br>
 
-<!-- > If you're not a fan of the light mode of this site, or want a lower contrast version for accessibility, you can alter the theme in "Page Settings" at the bottom of the nav bar. -->
+
