@@ -5,7 +5,7 @@
 
 body {
   margin: 0;
-  background-color: #113C3D;
+  background-color: #6A6B1E;
   font-family: Arial, sans-serif;
   display: flex;
   min-height: 100vh;
@@ -13,7 +13,7 @@ body {
 
 .sidebar {
   width: 250px;
-  background-color: #3D113C;
+  background-color: #6B1E6A;
   color: white;
   display: flex;
   flex-direction: column;
