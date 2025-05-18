@@ -98,7 +98,7 @@ nav a:hover {
   /* background-color: #f0f0f0; */
   padding: 10px;
   border-radius: 8px;
-  box-shadow: 0 0 10px #78C5CA;
+  box-shadow: 0 0 10px #E1D1ED;
 }
 
 
@@ -106,7 +106,7 @@ nav a:hover {
 .btn {
   display: inline-block;
   text-align: center;
-  background-color: #007BFF;
+  background-color: #EDD3D1;
   color: white;
   padding: 10px 14px;
   border-radius: 6px;
@@ -116,5 +116,5 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #0056b3;
+  background-color: #DFB0AC;
 }
