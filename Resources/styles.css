@@ -3,6 +3,76 @@
   src: url("eva.otf");
 }
 
+@media (max-width: 768px) {
+  body {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 1em;
+    text-align: center;
+  }
+
+  .sidebar img {
+    width: 120px;
+    margin: 1em;
+  }
+
+  .sidebar .rotated-title {
+    flex-basis: 100%;
+    margin-bottom: 1em;
+  }
+
+  .sidebar h1 {
+    font-size: 2em;
+  }
+
+  nav {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  nav a {
+    flex: 1 1 100px;
+    font-size: 0.9em;
+    padding: 8px;
+  }
+
+  .contacts {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  #contactsHeader {
+    flex-basis: 100%;
+    font-size: 1.2em;
+  }
+
+  .content {
+    padding: 1em;
+  }
+
+  .webring {
+    position: static;
+    margin: 2em auto 0 auto;
+    text-align: center;
+  }
+
+  .btn {
+    margin: 0 5px;
+  }
+}
+
 body {
   margin: 0;
   background-color: #D1EBED;
@@ -28,7 +98,7 @@ body {
   margin-bottom: 1em;
 }
 
-.sidebar h {
+.sidebar h1 {
   font-size: 3em;
   margin-bottom: 1em;
   text-align: left;
@@ -47,7 +117,7 @@ nav a {
   color: white;
   text-decoration: none;
   padding: 10px;
-  background-color: 3E2F18;
+  background-color: #3E2F18;
   text-align: center;
   border-radius: 5px;
   position: relative; /* Needed for absolute pseudo-elements */
