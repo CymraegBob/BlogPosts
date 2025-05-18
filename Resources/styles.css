@@ -3,17 +3,8 @@
   src: url("eva.otf");
 }
 
-header h1{
-   transform: rotate(-90deg);
-   border-bottom: 3px solid white;
-   margin-right: 10px;
-}
 
-/* header h2{
-  transform: rotate(-5deg);
-  border-bottom: 3px solid white;
-  margin-right: 10px;
-} */
+
 
 body {
   margin: 0;
@@ -22,6 +13,37 @@ body {
   display: flex;
   min-height: 100vh;
 }
+
+@media (max-width: 768px) {
+  .body {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sidebar h1 {
+    transform: none;
+    white-space: normal;
+    margin: 0.5em;
+  }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 1em;
+  border-radius: 10px;
+}
+
 
 .sidebar {
   width: 250px;
@@ -41,10 +63,40 @@ body {
 }
 
 .sidebar h1 {
+  transform: rotate(-90deg);
+  transform-origin: left top;
+  white-space: nowrap;
   font-size: 1.5em;
-  margin-bottom: 1em;
-  text-align: center;
+  margin: 1em 0;
+  border-bottom: 3px solid white;
+  max-width: 100%;
+  overflow-wrap: break-word;
 }
+
+.rotated-title {
+  position: relative;
+  width: 150px;  /* Container's width = height of rotated text */
+  height: 100px; /* Controls the visible height space */
+  overflow: hidden;
+  margin-bottom: 1em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
+
+.rotated-title h1 {
+  position: absolute;
+  transform: rotate(-90deg);
+  transform-origin: top left;
+  white-space: nowrap;
+  font-size: 1.9em;
+  left: 0;
+  top: 93%; /* Push it down so it stays visible inside the box */
+  border-bottom: 3px solid white;
+  margin: 0;
+}
+
 
 nav {
   width: 100%;
