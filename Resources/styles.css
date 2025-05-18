@@ -93,4 +93,7 @@ nav a:hover {
 
 .webring {
   background-color: white;
+  position: fixed;
+  bottom: 0;
+  right: 0;
 }
