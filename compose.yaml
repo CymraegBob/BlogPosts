@@ -1,0 +1,23 @@
+services:
+  cv-webserver:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: cv-website
+    container_name: cv-website
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Etc/UTC
+    volumes:
+      - ./default.conf:/etc/nginx/conf.d/default.conf
+    ports:
+      - 8080:80  # Change if port 80 is in use
+      - 8443:443
+    networks:
+      - nginxreverseproxy_default
+    restart: unless-stopped
+
+networks:
+  nginxreverseproxy_default:
+    external: true

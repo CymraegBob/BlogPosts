@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Robyn Vaughan-Williams</title>
+  </head>
+  <script>
+    function toggleSidebar() {
+      const sidebar = document.querySelector(".sidebar");
+      sidebar.classList.toggle("open");
+    }
+  </script>
+  <body>
+    <button class="menu-toggle" onclick="toggleSidebar()">☰ Menu</button>
+    <aside class="sidebar">
+      <div class="rotated-title">
+        <h1>Robyn <br />Vaughan <br />Williams</h1>
+      </div>
+
+      <img
+        src="profilePic.jpeg"
+        alt="A drawing of me, I'm wearing purple tinted glasses and have a background of sakura blosoms"
+      />
+      <div class="links">
+        <a href="index.html">Home</a><br>
+        <a href="about.html">About</a>
+      </div>
+
+      <nav>
+<h1>Navigation</h1>
+
+
+<h2>Major Work</h2>
+<li><a href=/PAWB.html>EESW Project</a></li>
+<li><a href=/Ystumtec.html>Ystumtec</a></li>
+
+
+<h2>Thoughts</h2>
+<li><a href=/Quotes.html>Quotes</a></li>
+
+
+<h2>Uncatagorized</h2>
+<li><a href=/Robotics-Society.html>Robotics Society</a></li>
+<li><a href=/Oriel-Caffi-Croesor.html>Working as a baker</a></li>
+<li><a href=/Vape-Battery.html>Vape Battery</a></li>
+<li><a href=/Vr-Trackers.html>Vr Tracker</a></li>
+<li><a href=/First-Job.html>Working with my Dad</a></li>
+<li><a href=/Pottery.html>Pottery</a></li>
+<li><a href=/CNCMachine.html>CNSelfie</a></li>
+
+</nav>
+      <h2 id="contactsHeader">Contact Me:</h2>
+      <div class="contacts">
+        <div class="links"><a href="https://linktr.ee/bobyn123">Link Tree</a></div>
+        
+      </div>
+      <h2 id="contactsHeader">My Work:</h2>
+      <div class="contacts">
+        <div class="links"><a href="https://github.com/Bobyn123">Git Repos</a><br>
+        <a href="cv.pdf">CV</a></div>
+        
+      </div>
+    </aside>
+
+    <div class="content">
+      <main>
+        <article><h1>CNSelfie</h1>
+<p>This was a project I worked on during my time as the robotics society president in collaboration with a new member (Good friend [Rosia Evans]). Together we created an interactive robot for kids coming to university open days and similar events, it would display a camera view and detect outlines then when a photo was taken with it, it would generate gcode from these lines to direct the society's homemade CNC machine to draw out what it saw. The idea being that kids could have drawings of themselves made by a robot they could take home.</p>
+<p>It was completed over the course of two weeks, my role in this project was largely managerial, providing advice and high level implementation directions.</p>
+<h2>Overview</h2>
+<p>The program worked using <a href="https://opencv.org/">OpenCV</a>. OpenCV would detect sharp edges and produce a black and white image, this would then by converted into a vector which was then converted into gcode as paths for the CNC machine. Initially we attempted to use a <a href="https://github.com/PadLex/SvgToGcode">library</a> for converting between vectors and gcode but found it didnt have all the functionality we needed so ended up adding alot of extra methods and rewriting a few of them.</p>
+<p>This GCode was then sent by <a href="https://github.com/winder/Universal-G-Code-Sender">Universal Gcode Sender</a> to our CNC machine.</p>
+<h2>Gallery</h2>
+<!-- ![Image of The CNC machine](CNSelfie1.jpg)
+![Image of The CNC machine](CNSelfie2.jpg) -->
+<div style="display:flex; gap: 10px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUDhqIgixiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjyn54UnaAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</article>
+      </main>
+
+      <div class="webring">
+        <a href="https://aberwebr.ing/Bob/left" class="btn">&lt;</a>
+        <a href="https://aberwebr.ing/" class="btn"> Aber Webring </a>
+        <a href="https://aberwebr.ing/Bob/right" class="btn">&gt;</a>
+      </div>
+    </div>
+  </body>
+</html>
