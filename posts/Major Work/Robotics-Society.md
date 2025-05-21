@@ -22,7 +22,7 @@ In lab sessions my role as president mainly involved providing technical support
 
 # Post Covid Revival
 During my final year of university COVID restrictions began to fully lift and the society could be revivied in ernest, aside from myself we had a fresh comittee (all others having graduated) so we had some fresh enthusiasm to get us moving. Aside from our usual activities of allowing students space and equipment to work on their own projects we held a theme for the year "Robot Wars" where students would take the basic robot kit all freshers got to work with, to modify and program them to fight each other in a sumo ring. We also held biweekly talks by members of the faculty and local industry partners (Ystumtec) on their areas of expertise and research.
-<img src="images/Robotics_session.jpg" alt="First post COVID session">
+<img src="images/Robotics-session.jpg" alt="First post COVID session">
 Overall I'm happy to say I had a fantastic experiance with the robotics society, it was a space for me to make friends, expand on my skills both technical and organizational and to work on intresting projects. I even managed to pull together enough students to form a comittee to keep things going after I left and the society continues to chug along happily today.
 
 # Science week and beach lab
