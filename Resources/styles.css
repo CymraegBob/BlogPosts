@@ -1,109 +1,105 @@
+/* ========================
+   THEME VARIABLES
+======================== */
+:root {
+  --color-bg: #D1EBED;
+  --color-primary: #CA7D78;
+  --color-secondary: #78C5CA;
+  --color-accent: #A678CA;
+  --color-btn: #EDD3D1;
+  --color-btn-hover: #DFB0AC;
+  --text-light: #fff;
+  --text-dark: #333;
+  --radius: 8px;
+  --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  --font-main: Arial, sans-serif;
+  --font-heading: eva, Arial, sans-serif;
+}
+
+/* ========================
+   GLOBAL STYLES
+======================== */
 @font-face {
   font-family: eva;
   src: url("eva.otf");
 }
 
-body {
-  margin: 0;
-  background-color: #D1EBED;
-  font-family: Arial, sans-serif;
-  display: flex;
-  min-height: 100vh;
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-bg);
+  font-family: var(--font-main);
+  display: flex;
+  min-height: 100vh;
+  color: var(--text-dark);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* ========================
+   SIDEBAR
+======================== */
 .sidebar {
   width: 250px;
-  background-color: #CA7D78;
-  color: white;
+  background-color: var(--color-primary);
+  color: var(--text-light);
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 1em;
-  list-style-type: none;
 }
 
 .sidebar img {
   max-width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: var(--radius);
   margin-bottom: 1em;
 }
 
 .sidebar h1 {
-  font-size: 3em;
+  font-family: var(--font-heading);
+  font-size: clamp(2rem, 5vw, 3rem);
   margin-bottom: 1em;
   text-align: left;
-  /* border-bottom: 3px solid white; */
 }
 
+/* ========================
+   NAVIGATION
+======================== */
 nav {
   width: 100%;
   display: flex;
   flex-direction: column;
   gap: 10px;
   text-align: center;
-  
 }
 
-
-nav a {
-  color: white;
+nav a,
+.links a {
+  color: var(--text-light);
   text-decoration: none;
   padding: 10px;
-  /* background-color: #f0f0f0; */
-  text-align: center;
-  border-radius: 5px;
-  position: relative; /* Needed for absolute pseudo-elements */
+  border-radius: var(--radius);
+  position: relative;
   display: inline-block;
-  /* box-shadow: 0 0 10px #A678CA; */
-  
+  transition: background-color 0.3s ease;
 }
 
 nav a::after,
-nav a::before {
-  content: '';
-  position: absolute;
-  width: 100%;
-  height: 2px;
-  background: linear-gradient(to right, #8FC366, #bb65ff);
-  transform: scaleX(0);
-  transition: transform 0.4s ease-out;
-}
-
-nav a::after {
-  bottom: -5px;
-  left: 0;
-  transform-origin: right;
-}
-
-nav a::before {
-  top: -5px;
-  left: 0;
-  transform-origin: left;
-}
-
-nav a:hover::after,
-nav a:hover::before {
-  transform: scaleX(1);
-}
-
-nav a:hover {
-  background-color: #78C5CA;
-}
-
-.links a {
-  color: white;
-  text-decoration: none;
-  padding: 10px;
-  /* background-color: #f0f0f0; */
-  text-align: center;
-  border-radius: 5px;
-  position: relative; /* Needed for absolute pseudo-elements */
-  display: inline-block;
-  /* box-shadow: 0 0 10px #A678CA; */
-  
-}
-
+nav a::before,
 .links a::after,
 .links a::before {
   content: '';
@@ -115,63 +111,97 @@ nav a:hover {
   transition: transform 0.4s ease-out;
 }
 
+nav a::after,
 .links a::after {
   bottom: -5px;
   left: 0;
   transform-origin: right;
 }
 
+nav a::before,
 .links a::before {
   top: -5px;
   left: 0;
   transform-origin: left;
 }
 
+nav a:hover::after,
+nav a:hover::before,
 .links a:hover::after,
 .links a:hover::before {
   transform: scaleX(1);
 }
 
+nav a:hover,
 .links a:hover {
-  background-color: #78C5CA;
+  background-color: var(--color-secondary);
 }
 
+nav a:focus,
+.links a:focus,
+.btn:focus {
+  outline: 3px dashed var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* ========================
+   CONTENT AREA
+======================== */
 .content {
   flex-grow: 1;
   padding: 2em;
 }
 
-.webring {
-  position: fixed;
-  bottom: 20px;   /* distance from bottom */
-  right: 20px;    /* distance from right */
-  /* background-color: #f0f0f0; */
-  padding: 10px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px #7A40A5;
+/* ========================
+   IMAGES IN MAIN ARTICLE
+======================== */
+main article img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1em 0;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
 
+/* ========================
+   WEBRING
+======================== */
+.webring {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+  border-radius: var(--radius);
+  box-shadow: 0 0 10px var(--color-accent);
+}
 
-
+/* ========================
+   BUTTONS
+======================== */
 .btn {
   display: inline-block;
   text-align: center;
-  background-color: #EDD3D1;
-  color:#7A40A5;
+  background-color: var(--color-btn);
+  color: var(--color-accent);
   padding: 10px 14px;
-  border-radius: 6px;
+  border-radius: var(--radius);
   text-decoration: none;
   font-weight: bold;
   transition: background-color 0.2s ease;
 }
 
 .btn:hover {
-  background-color: #DFB0AC;
+  background-color: var(--color-btn-hover);
 }
+
+/* ========================
+   MENU TOGGLE
+======================== */
 .menu-toggle {
   display: none;
-  background-color: #CA7D78;
-  color: white;
+  background-color: var(--color-primary);
+  color: var(--text-light);
   padding: 10px 15px;
   font-size: 1.2em;
   border: none;
@@ -179,9 +209,17 @@ nav a:hover {
   width: 100%;
   text-align: left;
   z-index: 1000;
+  transition: background-color 0.3s ease, transform 0.3s ease;
 }
 
-/* Responsive styles */
+.menu-toggle:hover {
+  background-color: var(--color-secondary);
+  transform: scale(1.05);
+}
+
+/* ========================
+   RESPONSIVE STYLES
+======================== */
 @media (max-width: 768px) {
   body {
     flex-direction: column;
@@ -196,7 +234,7 @@ nav a:hover {
     top: 50px;
     left: 0;
     width: 100%;
-    background-color: #CA7D78;
+    background-color: var(--color-primary);
     overflow: hidden;
     max-height: 0;
     opacity: 0;
@@ -208,7 +246,7 @@ nav a:hover {
   }
 
   .sidebar.open {
-    max-height: 1000px; /* large enough to show all content */
+    max-height: 1000px;
     opacity: 1;
     pointer-events: auto;
     padding-bottom: 1em;
