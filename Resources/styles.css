@@ -230,13 +230,13 @@ main article img {
   }
 
   .sidebar {
-    position: absolute;
+    position: fixed;
     top: 50px;
     left: 0;
     width: 100%;
     background-color: var(--color-primary);
-    overflow: hidden;
     max-height: 0;
+    overflow-y: auto;
     opacity: 0;
     pointer-events: none;
     transition: max-height 0.4s ease, opacity 0.4s ease;
@@ -246,7 +246,7 @@ main article img {
   }
 
   .sidebar.open {
-    max-height: 1000px;
+    max-height: 80vh;
     opacity: 1;
     pointer-events: auto;
     padding-bottom: 1em;
@@ -265,6 +265,7 @@ main article img {
     gap: 5px;
     width: 100%;
     align-items: center;
+    list-style-type: none;
   }
 
   .contacts {
