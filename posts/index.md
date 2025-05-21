@@ -11,12 +11,13 @@ The world can be a busy mess, but it's important to focus on how we make it bett
 
 Above all else I value **community**, **sustainability**, **Égalité**.
 
+From each according to their ability, to each according to their needs.
 
 [More about me](About.html)
 
 Things I'm proud of:
 
-- [My time with PAWB](PAWB.html)
+- [My time with PAWB](EESW.html)
 - [My work with Ystumtec](Ystumtec.html)
 - [Hosting the Aber Webring](https://aberwebr.ing)
 <!-- - [This Site](ThisSite.html)  -->

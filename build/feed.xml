@@ -3,7 +3,7 @@
 
   <title>Robyn Vaughan-Williams Blog</title>
   <link href="https://bobyn.uk/"/>
-  <updated>2025-05-19T17:26:23Z</updated>
+  <updated>2025-05-21T15:49:50Z</updated>
   <author>
     <name>Robyn Vaughan-Williams</name>
   </author>
@@ -14,6 +14,40 @@
 
 
 <entry>
+<title>EESW Project</title>
+<link href="http://bobyn.uk//EESW.html"/>
+<id>http://bobyn.uk//EESW.html</id>
+<updated>2025-05-02T23:43:02Z</updated>
+<content type="html">
+<![CDATA[
+<h1>EESW Project</h1>
+<p>During my time studying a BTEC in electronic engineering at Coleg Menai I was given the opportunity to take part in the &quot;EESW project&quot; compeition, where me and a few of my classmates would work together in collaboration with a local company to produce a technical project.</p>
+<p>We were assigned to work with PAWB and the late great Ray Davies.</p>
+<h2>Ray Davies</h2>
+<p>The Photonics Academy of Wales at Bangor (PAWB) was based in Bangor University's electronics department and ran by Ray Davies mostly as a solo act. Ray used the subject of photonics to catch the attention of and inspire young students into STEM careers through the use of short courses and summer schools. The key aspect was that the designs were the work of the children and this typified Ray’s approach when working with all age groups. He would initially introduce a concept or a property of light and then ask his audience to use that aspect of light to devise a novel device or system of societal benefit. Ray described photonics as &quot;the science of harnessing technology through light&quot; a much broader interpretation than most.</p>
+<p>Ray was my first mentor who I truly felt supported by and that showed me what I could make of myself if applied correctly, and for that I will always be grateful to him. I would also be remiss if I did not mention his wonderfuly eccentric character, somehow the most serious and playful voice in the laboratory and his propensity for backronyms.</p>
+<h2>PAWB project</h2>
+<p>For my groups project, we settled on a reasonably simple design, employing polarized light via Malus law as a mechanism for selecting musical notes to be played. Our device, that we nicknamed the &quot;octapus&quot; (it played eight notes) was operated by moving a mechanical slide that rotated one one of a pair of polaroid filters which had a coherent laser beam passing through them into a photodiode, by this action the change in intensity of light was abled to be mapped to different musical notes.</p>
+<img src="Malus.png" alt="A diagram depicting Malus law ">
+<p>For this project, my teammates worked on the mechanical slide mechanism and I worked on the electronics, taking simple circuit diagrams provided by Ray and chaining them together to properly interpret the light from the photodiode and to produce musical notes. As part of this project we had to employ a lot of newly developed skills, from logic gates to osciloscopes.</p>
+<img src="EESW.jpg" alt="Me and my teammate Stephanie at the big bang fair with the Octapus">
+<p>In the end I think we did pretty well, having won <em>Best solution to the project set</em> and <em>Best display of technology</em> as well as runner up for <em>Best written report</em> and from here I was made runner up for EESW best young engineer of the year.</p>
+<p>We also as winners of the local wales compeition got to move on to the national compeition at the big bang fair at the NEC in birmginham in 2017, sadly the other projects there that year where much more impressive than our own, but it was a good experiance, and certainly lended to the sense of achievement in our young selves.</p>
+<img src="octapus.jpg" alt="The finished OCTAPUS.">
+<p>If you're truly intrested in reading the full report on a project some student made in 2016 (or seeing an embarrasing old photo), you can find that <a href="EESW.pdf">here.</a></p>
+<h1>Summer school</h1>
+<p>Following on from the EESW project, I stayed on to attend the 2016 PAWB photonics summer school, an intensive four week course where each student got to develop a variety of electronics skills and physics knowledge by producing our own complete bespoke project.</p>
+<p>For my project, I settled on trying to use polarized light and a unique property ray discovered of a non dispersive amici roof prism, the science of which was sloghtly beyond me, but the application was actually fairly simple. Put simply the prism had a split down the center that light on either side was polarized at right angles to each other, hence by ataching a polarizing filter and measuring the change in intensity of light on either side, we were able to digitize a compass bearing.</p>
+<p>Athough the concept was relatively simple, the fine detail engineering proved to be more difficult, having issues with laser beam alignment and circuit sensitivity to noise and I was sadly not able to finish my project in the 4 week duration of the summer school. I continued to work on my project off and on for the remainder of my time at coleg menai and was also given the opportunity to mentor students in the following years summer school as well as for a nuffield bursary short course.</p>
+<img src="compass.jpg" alt="The complete prototype of the COMPASS project.">
+<p>In the end I was able to produce a working if finicky prototype.</p>
+<h1>Visiting Parliament</h1>
+<p>As a result of my involvement with PAWB, I was invited by Qioptiq (industry partner) to attend an all party parliamentary group meeting on the photonics industry to share with MPs my insights and experience with the industry as a student.</p>
+<img src="parliment1.jpg" alt="A picture of me infront of our stand inside parliment.">
+<img src="parliment2.jpg" alt="A picture of me standing on outside the conservatory in parliment.">
+]]>
+</content>
+</entry><entry>
 <title>Ystumtec</title>
 <link href="http://bobyn.uk//Ystumtec.html"/>
 <id>http://bobyn.uk//Ystumtec.html</id>
@@ -52,59 +86,34 @@
 ]]>
 </content>
 </entry><entry>
-<title>EESW Project</title>
-<link href="http://bobyn.uk//PAWB.html"/>
-<id>http://bobyn.uk//PAWB.html</id>
-<updated>2025-05-02T23:43:02Z</updated>
+<title>Robotics Society</title>
+<link href="http://bobyn.uk//Robotics-Society.html"/>
+<id>http://bobyn.uk//Robotics-Society.html</id>
+<updated>2025-05-21T15:38:02Z</updated>
 <content type="html">
 <![CDATA[
-<h1>EESW Project</h1>
-<p>During my time studying a BTEC in electronic engineering at Coleg Menai I was given the opportunity to take part in the &quot;EESW project&quot; compeition, where me and a few of my classmates would work together in collaboration with a local company to produce a technical project.</p>
-<p>We were assigned to work with PAWB and the late great Ray Davies.</p>
-<h2>Ray Davies</h2>
-<p>The Photonics Academy of Wales at Bangor (PAWB) was based in Bangor University's electronics department and ran by Ray Davies mostly as a solo act. Ray used the subject of photonics to catch the attention of and inspire young students into STEM careers through the use of short courses and summer schools. The key aspect was that the designs were the work of the children and this typified Ray’s approach when working with all age groups. He would initially introduce a concept or a property of light and then ask his audience to use that aspect of light to devise a novel device or system of societal benefit. Ray described photonics as &quot;the science of harnessing technology through light&quot; a much broader interpretation than most.</p>
-<p>Ray was my first mentor who I truly felt supported by and that showed me what I could make of myself if applied correctly, and for that I will always be grateful to him. I would also be remiss if I did not mention his wonderfuly eccentric character, somehow the most serious and playful voice in the laboratory and his propensity for backronyms.</p>
-<h2>PAWB project</h2>
-<p>For my groups project, we settled on a reasonably simple design, employing polarized light via Malus law as a mechanism for selecting musical notes to be played. Our device, that we nicknamed the &quot;octapus&quot; (it played eight notes) was operated by moving a mechanical slide that rotated one one of a pair of polaroid filters which had a coherent laser beam passing through them into a photodiode, by this action the change in intensity of light was abled to be mapped to different musical notes.</p>
-<img src="Malus.png" alt="A diagram depicting Malus law ">
-<p>For this project, my teammates worked on the mechanical slide mechanism and I worked on the electronics, taking simple circuit diagrams provided by Ray and chaining them together to properly interpret the light from the photodiode and to produce musical notes. As part of this project we had to employ a lot of newly developed skills, from logic gates to osciloscopes.</p>
-<img src="EESW.jpg" alt="Me and my teammate Stephanie at the big bang fair with the Octapus">
-<p>In the end I think we did pretty well, having won <em>Best solution to the project set</em> and <em>Best display of technology</em> as well as runner up for <em>Best written report</em> and from here I was made runner up for EESW best young engineer of the year.</p>
-<p>We also as winners of the local wales compeition got to move on to the national compeition at the big bang fair at the NEC in birmginham in 2017, sadly the other projects there that year where much more impressive than our own, but it was a good experiance, and certainly lended to the sense of achievement in our young selves.</p>
-<img src="octapus.jpg" alt="The finished OCTAPUS.">
-<p>If you're truly intrested in reading the full report on a project some student made in 2016 (or seeing an embarrasing old photo), you can find that <a href="EESW.pdf">here.</a></p>
-<h1>Summer school</h1>
-<p>Following on from the EESW project, I stayed on to attend the 2016 PAWB photonics summer school, an intensive four week course where each student got to develop a variety of electronics skills and physics knowledge by producing our own complete bespoke project.</p>
-<p>For my project, I settled on trying to use polarized light and a unique property ray discovered of a non dispersive amici roof prism, the science of which was sloghtly beyond me, but the application was actually fairly simple. Put simply the prism had a split down the center that light on either side was polarized at right angles to each other, hence by ataching a polarizing filter and measuring the change in intensity of light on either side, we were able to digitize a compass bearing.</p>
-<p>Athough the concept was relatively simple, the fine detail engineering proved to be more difficult, having issues with laser beam alignment and circuit sensitivity to noise and I was sadly not able to finish my project in the 4 week duration of the summer school. I continued to work on my project off and on for the remainder of my time at coleg menai and was also given the opportunity to mentor students in the following years summer school as well as for a nuffield bursary short course.</p>
-<img src="compass.jpg" alt="The complete prototype of the COMPASS project.">
-<p>In the end I was able to produce a working if finicky prototype.</p>
-<h1>Visiting Parliament</h1>
-<p>As a result of my involvement with PAWB, I was invited by Qioptiq (industry partner) to attend an all party parliamentary group meeting on the photonics industry to share with MPs my insights and experience with the industry as a student.</p>
-<img src="parliment1.jpg" alt="A picture of me infront of our stand inside parliment.">
-<img src="parliment2.jpg" alt="A picture of me standing on outside the conservatory in parliment.">
-]]>
-</content>
-</entry><entry>
-<title>CNSelfie</title>
-<link href="http://bobyn.uk//CNCMachine.html"/>
-<id>http://bobyn.uk//CNCMachine.html</id>
-<updated>2025-05-02T23:24:03Z</updated>
-<content type="html">
-<![CDATA[
-<h1>CNSelfie</h1>
-<p>This was a project I worked on during my time as the robotics society president in collaboration with a new member (Good friend [Rosia Evans]). Together we created an interactive robot for kids coming to university open days and similar events, it would display a camera view and detect outlines then when a photo was taken with it, it would generate gcode from these lines to direct the society's homemade CNC machine to draw out what it saw. The idea being that kids could have drawings of themselves made by a robot they could take home.</p>
-<p>It was completed over the course of two weeks, my role in this project was largely managerial, providing advice and high level implementation directions.</p>
-<h2>Overview</h2>
-<p>The program worked using <a href="https://opencv.org/">OpenCV</a>. OpenCV would detect sharp edges and produce a black and white image, this would then by converted into a vector which was then converted into gcode as paths for the CNC machine. Initially we attempted to use a <a href="https://github.com/PadLex/SvgToGcode">library</a> for converting between vectors and gcode but found it didnt have all the functionality we needed so ended up adding alot of extra methods and rewriting a few of them.</p>
-<p>This GCode was then sent by <a href="https://github.com/winder/Universal-G-Code-Sender">Universal Gcode Sender</a> to our CNC machine.</p>
-<h2>Gallery</h2>
-<!-- ![Image of The CNC machine](CNSelfie1.jpg)
-![Image of The CNC machine](CNSelfie2.jpg) -->
-<div style="display:flex; gap: 10px;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUDhqIgixiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xjyn54UnaAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<h1>Robotics Society</h1>
+<p>The Aber Robotics Society is a small society of friends at Aberystwyth university who meet up every wednesday in the main physics laboratory to form groups and work on their robotics projects together, a key aspect of the society was mutual support and improptu tutorial sessions as and when the need arised, students teaching students skills from their own unique backgrounds.
+The society originated as an offshoot of the Aberystwyth Robotics Club, an outreach program put on by members of the university to encourage kids into STEM through robotics projects, before COVID the two groups where scheduled one after another, and university students who wanted to get involved with outreach activities would stick around for both sessions.
+Before going in detail on my experiances with the society, I would be remiss if I did not mention the overhweling support of the university, in particular Steve Faern (head lab technician) and David Lewis for giving us their time, experiance and most importantly supervision and use of the physics laboratory as well as a room to store our society equipment and projects.</p>
+<h1>First year</h1>
+<p>During my first year at the society, I made friends at the club and developed my electronics and programming skills by first building one of the simple robot kits the society had for new members, and later by prototyping a robotic control glove that used strain gauges to related to motor angles to control a robotic hand.
+At the end of the year I wanted to further my skillset and gives back to the society so I stood for and won the position of secratary.</p>
+<h1>Secretary</h1>
+<p>During my time as secretary I was in charge of organizing communication between the committee and other groups such as the students union, members of the society and for arranging and booking the laboratory for our main weekly sessions.
+During this time I also further developed my robotics skills by retrofitting a toy car, replacing its electronics with an arduino and bluetooth module, compatible motor controllers and lipo battery with chargeing circuity, all of which made the car controllably remotely.
+Unfortunately this was the year the COVID outbreak began, I had already been eyeing the role of president before Covid began and so I stood for the role of president with the aim of stewarding the society and its membership through lockdown.</p>
+<h1>Covid and Presidency</h1>
+<p>During my first year as president, the world at large was still solidly in lockdown, so we did our best to maintain a continutity of activities by assembling and distributing kits for new members to practice robotics at home, and arranging a discord server with scheduled support sessions for more experianced members to help while also hosting semi regular online social events to try to maintain the social cohesion gained by working together in the lab.
+In my second year as president I was working outside the university doing a year in industry at <a href="Ystumtec.html">Ystumtec</a> however I was fortunate to still be based in Aberystwyth. Fortunately for the society, lockdown rules were being reduced and we were able to resume our in person sessions in the lab albeit in a reduced capacity, having to maintain social distancing which forced us to reduce society membership and ensure tools were steralized or bring our own from home.
+In lab sessions my role as president mainly involved providing technical support and being an encouraging sounding board for students project ideas, a role I was already familiar with from my time helping at the <a href="PAWB.html">PAWB summer school</a>.</p>
+<h1>Post Covid Revival</h1>
+<p>During my final year of university COVID restrictions began to fully lift and the society could be revivied in ernest, aside from myself we had a fresh comittee (all others having graduated) so we had some fresh enthusiasm to get us moving. Aside from our usual activities of allowing students space and equipment to work on their own projects we held a theme for the year &quot;Robot Wars&quot; where students would take the basic robot kit all freshers got to work with, to modify and program them to fight each other in a sumo ring. We also held biweekly talks by members of the faculty and local industry partners (Ystumtec) on their areas of expertise and research.
+Overall I'm happy to say I had a fantastic experiance with the robotics society, it was a space for me to make friends, expand on my skills both technical and organizational and to work on intresting projects. I even managed to pull together enough students to form a comittee to keep things going after I left and the society continues to chug along happily today.</p>
+<h1>Science week and beach lab</h1>
+<p>In addition to the societies typical weekly activities, the two big events of the year are national science week and beach lab.
+For science week the unviersity puts on a big event for all the local secondary schools where various groups in the university run tables teaching young students about their area of research from biology to astronomy, and the robotics society is no different, we typically will have student projects on display and a few robots for attendess to drive around to help keep them engaged along with a scale model of the mars surface and 1:1 scale replica of the mars curiosity rover that Steve Faern built.
+Beach lab is a fairly similar event where local companies and individuals exhibit their work alongside university robotics research groups, except that it's typically held in the bandstand on the seafront in Aberystwyth with the exhibiton being open to all members of the public.</p>
 ]]>
 </content>
 </entry><entry>
@@ -140,17 +149,6 @@
 ]]>
 </content>
 </entry><entry>
-<title>Vape Battery</title>
-<link href="http://bobyn.uk//Vape-Battery.html"/>
-<id>http://bobyn.uk//Vape-Battery.html</id>
-<updated>2025-05-05T13:10:41Z</updated>
-<content type="html">
-<![CDATA[
-<h1>Vape Battery</h1>
-<p>Made a battery bank based on an open source design for recycling vape batteries.</p>
-]]>
-</content>
-</entry><entry>
 <title>Working as a baker</title>
 <link href="http://bobyn.uk//Oriel-Caffi-Croesor.html"/>
 <id>http://bobyn.uk//Oriel-Caffi-Croesor.html</id>
@@ -159,20 +157,6 @@
 <![CDATA[
 <h1>Working as a baker</h1>
 <p>First real job where I was working independantly</p>
-]]>
-</content>
-</entry><entry>
-<title>Robotics Society</title>
-<link href="http://bobyn.uk//Robotics-Society.html"/>
-<id>http://bobyn.uk//Robotics-Society.html</id>
-<updated>2025-05-06T18:55:33Z</updated>
-<content type="html">
-<![CDATA[
-<h1>Robotics Society</h1>
-<h1>Secretary</h1>
-<h1>President</h1>
-<h1>Covid</h1>
-<h1>Post Covid Revival</h1>
 ]]>
 </content>
 </entry><entry>
@@ -206,6 +190,43 @@
 <li><p>&quot;No one is finally dead until the ripples they cause in the world die away - until the clock he wound winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone's life…is only the core of their actual existence.&quot; -TerryPratchet, Reaper Man</p>
 </li>
 </ul>
+]]>
+</content>
+</entry><entry>
+<title>CNSelfie</title>
+<link href="http://bobyn.uk//CNCMachine.html"/>
+<id>http://bobyn.uk//CNCMachine.html</id>
+<updated>2025-05-02T23:24:03Z</updated>
+<content type="html">
+<![CDATA[
+<h1>CNSelfie</h1>
+<p>This was a project I worked on during my time as the robotics society president in collaboration with a new member (Good friend [Rosia Evans]). Together we created an interactive robot for kids coming to university open days and similar events, it would display a camera view and detect outlines then when a photo was taken with it, it would generate gcode from these lines to direct the society's homemade CNC machine to draw out what it saw. The idea being that kids could have drawings of themselves made by a robot they could take home.</p>
+<p>It was completed over the course of two weeks, my role in this project was largely managerial, providing advice and high level implementation directions.</p>
+<h2>Overview</h2>
+<p>The program worked using <a href="https://opencv.org/">OpenCV</a>. OpenCV would detect sharp edges and produce a black and white image, this would then by converted into a vector which was then converted into gcode as paths for the CNC machine. Initially we attempted to use a <a href="https://github.com/PadLex/SvgToGcode">library</a> for converting between vectors and gcode but found it didnt have all the functionality we needed so ended up adding alot of extra methods and rewriting a few of them.</p>
+<p>This GCode was then sent by <a href="https://github.com/winder/Universal-G-Code-Sender">Universal Gcode Sender</a> to our CNC machine.</p>
+<h2>Gallery</h2>
+<!-- ![Image of The CNC machine](CNSelfie1.jpg)
+![Image of The CNC machine](CNSelfie2.jpg) -->
+<div style="display:flex; gap: 10px;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZUDhqIgixiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xjyn54UnaAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+]]>
+</content>
+</entry><entry>
+<title>Vape Battery</title>
+<link href="http://bobyn.uk//Vape-Battery.html"/>
+<id>http://bobyn.uk//Vape-Battery.html</id>
+<updated>2025-05-21T15:47:45Z</updated>
+<content type="html">
+<![CDATA[
+<h1>Vape Battery</h1>
+<p>I hate e-waste and I love free things, so when I found an open source <a href="https://github.com/chrisdoelcreates/vape-power-bank">battery bank</a> project and already having a stock of used vapes from friends, I just knew I had to make one for myself.
+I was already comfortable with electroncis in general and ordering populated projects from PCBway due to my <a href="Vr-tracker.html">VR tracker</a> project, so taking the plans and getting some PCBs made was a breeze.
+Taking apart some used vapes was a few hours in front of the TV (wear gloves nicotine residue through the skin is no fun) and prepping the batteries with copper tape was a few more hours.
+3D printing proved to be surprisingly finicky with a few sad print failures, probably down to the colorful filament.
+Wiring the whole thing together and seeing it light up was very satisfying in the end.</p>
 ]]>
 </content>
 </entry></feed>
