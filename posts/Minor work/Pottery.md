@@ -10,17 +10,3 @@ Here's some of my work in various stages of production.
 
  <iframe src="https://imich.bobyn.uk/share/ECOICn9fwiA4xUbwqTsLeaHqEDaL1G-rMjLdYKSTfeDrqAPcDxUBxcE3aDySnf1guvk" title="Imich album"></iframe> 
 
-<!-- <img src="images/pottery/pottery1.jpg" alt="1">
-<img src="images/pottery/pottery2.jpg" alt="2">
-<img src="images/pottery/pottery3.jpg" alt="3">
-<img src="images/pottery/pottery4.jpg" alt="4">
-<img src="images/pottery/pottery5.jpg" alt="5">
-<img src="images/pottery/pottery6.jpg" alt="6">
-<img src="images/pottery/pottery7.jpg" alt="7">
-<img src="images/pottery/pottery8.jpg" alt="8">
-<img src="images/pottery/pottery9.jpg" alt="9">
-<img src="images/pottery/pottery10.jpg" alt="10">
-<img src="images/pottery/pottery11.jpg" alt="11">
-<img src="images/pottery/pottery12.jpg" alt="12">
-<img src="images/pottery/pottery13.jpg" alt="12">
-<img src="images/pottery/pottery14.jpg" alt="12"> -->
