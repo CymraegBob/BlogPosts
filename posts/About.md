@@ -10,7 +10,7 @@ I'm Robyn Vaughan-Williams, I've been a few things now, student, baker, programm
 
 My "work" interests range from robotics and various embedded systems to VR technology, open source hardware and software and selfhosting.
 
-Outside of work, I find great joy in storytelling in all it's mediums from audibooks and full cast audio stories to tv and computer games, baking and cooking (feeding people makes me happy), pottery, community, helping others.
+Outside of work, I find great joy in storytelling in all it's mediums from audiobooks and full cast audio stories to tv and computer games, baking and cooking (feeding people makes me happy), pottery, community, helping others.
 
 <!-- Most of my interests lie in using robotics and computers in farming, exploring how they could help produce more food in a sustainable manner. I feel that computers and automation really could help produce a green
 world where people can easily afford the bare minimum and find themselves comfortable and happy.
