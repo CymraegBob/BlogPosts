@@ -20,3 +20,5 @@ here's some of my work in various stages of production.
 <img src="images/pottery/pottery10.jpg" alt="10">
 <img src="images/pottery/pottery11.jpg" alt="11">
 <img src="images/pottery/pottery12.jpg" alt="12">
+<img src="images/pottery/pottery13.jpg" alt="12">
+<img src="images/pottery/pottery14.jpg" alt="12">
