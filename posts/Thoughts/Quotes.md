@@ -26,3 +26,5 @@ Below is collection of quotes I either resonate with or am amused by, which of t
 - ["TO BE THE PLACE WHERE THE FALLING ANGEL MEETS THE RISING APE."](https://www.youtube.com/watch?v=vPS5Yw_YsHA) - Terry Pratchet, Hogfather
 
 - "No one is finally dead until the ripples they cause in the world die away - until the clock he wound winds down, until the wine she made has finished its ferment, until the crop they planted is harvested. The span of someone's life…is only the core of their actual existence." -TerryPratchet, Reaper Man
+
+- "I used to think art had to be great to be worthwhile; now, i only think it has to /be/ to be worthwhile." - John Green
