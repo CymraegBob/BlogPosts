@@ -6,7 +6,7 @@ This was a project I worked on during my time as the robotics society president 
 It was completed over the course of two weeks, my role in this project was largely managerial, providing advice and high level implementation directions.
 
 ## Overview
-The program worked using [OpenCV](https://opencv.org/). OpenCV would detect sharp edges and produce a black and white image, this would then by converted into a vector which was then converted into gcode as paths for the CNC machine. Initially we attempted to use a [library](https://github.com/PadLex/SvgToGcode) for converting between vectors and gcode but found it didnt have all the functionality we needed so ended up adding alot of extra methods and rewriting a few of them.
+The program worked using [OpenCV](https://opencv.org/). OpenCV would detect sharp edges and produce a black and white image, this would then by converted into a vector which was then converted into gcode as paths for the CNC machine. Initially we attempted to use a [library](https://github.com/PadLex/SvgToGcode) for converting between vectors and gcode but found it didn't have all the functionality we needed so ended up adding a lot of extra methods and rewriting a few of them.
 
 This GCode was then sent by [Universal Gcode Sender](https://github.com/winder/Universal-G-Code-Sender) to our CNC machine.
 
