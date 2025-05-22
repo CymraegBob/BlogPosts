@@ -6,7 +6,7 @@ I've been going to a weekly pottery workshop for over a year now (see I do go ou
 
 I'll be using this page to document my process and understanding of the craft as time goes by.
 <!-- TODO look into custom CSS override for this page so that images go into a nice gallery -->
-Here's some of my work in various stages of production. (note these images are being stored on my self hosted Imich server)
+Here's some of my work in various stages of production. (note these images are being stored on my self hosted Imich server and I can't control the order of the images)
 
  <iframe src="https://imich.bobyn.uk/share/ECOICn9fwiA4xUbwqTsLeaHqEDaL1G-rMjLdYKSTfeDrqAPcDxUBxcE3aDySnf1guvk" title="Imich album"></iframe> 
 
