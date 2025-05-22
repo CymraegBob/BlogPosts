@@ -1,5 +1,5 @@
 P
-# Scribbled Line
+<!-- # Scribbled Line
 This is my scribbled line, its a collection of things I find interesting or want to remember. Here you can find a good summary of my world views in the writings I find important and things I just think are neat.
 
 ## Pages
@@ -70,4 +70,4 @@ ____
 - [Wifi only works when its raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Magic switch](magic-switch.txt)
 
-
+ -->
