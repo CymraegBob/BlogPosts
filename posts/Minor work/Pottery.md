@@ -6,7 +6,7 @@ I've been going to a weekly pottery workshop for over a year now (see I do go ou
 
 I'll be using this page to document my process and understanding of the craft as time goes by.
 <!-- TODO look into custom CSS override for this page so that images go into a nice gallery -->
-here's some of my work in various stages of production.
+Here's some of my work in various stages of production.
 
 <img src="images/pottery/pottery1.jpg" alt="1">
 <img src="images/pottery/pottery2.jpg" alt="2">
