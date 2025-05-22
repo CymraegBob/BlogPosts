@@ -5,7 +5,7 @@ I hate e-waste and I love free things, so when I found an open source [battery b
 
 I was already comfortable with electronics in general and ordering populated projects from PCBway due to my [VR tracker](Vr-tracker.html) project, so taking the plans and getting some PCBs made was a breeze.
 
-<img src="images/vape1.jpg" alt="Box of scrapped.">
+<img src="images/vape1.jpg" alt="Box of scrapped vapes.">
 Taking apart some used vapes was a few hours in front of the TV (wear gloves nicotine residue through the skin is no fun) and prepping the batteries with copper tape was a few more hours.
 <img src="images/vape2.jpg" alt="Cells in new 3D printed housing.">
 
