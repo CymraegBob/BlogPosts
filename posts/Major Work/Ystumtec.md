@@ -54,7 +54,7 @@ The FAUV or Fjord autonomous underwater vehicle was the main project I was assig
 
 The FAUV, oh the FAUV, bane and joy of my existence.
 
-<img src="images/FAUV.jpg" alt="Picture of the FAUV">
+<img src="images/FAUV.jpg" alt="Picture of the FAUV out being tested.">
 
 ## xArm Test Rig
 

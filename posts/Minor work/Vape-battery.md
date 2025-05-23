@@ -7,6 +7,7 @@ I was already comfortable with electronics in general and ordering populated pro
 
 <img src="images/vape1.jpg" alt="Box of scrapped vapes.">
 Taking apart some used vapes was a few hours in front of the TV (wear gloves nicotine residue through the skin is no fun) and prepping the batteries with copper tape was a few more hours.
+<img src="images/vape4.jpg" alt="Preparing cells">
 <img src="images/vape2.jpg" alt="Cells in new 3D printed housing.">
 
 3D printing proved to be surprisingly finicky with a few sad print failures, probably down to the colorful filament.
