@@ -1,7 +1,7 @@
 
 # Vr Tracker
 
-I quite enjoy playing games in VR, I sometimes hang out and chat with my friend [Rosia](Rosia.me) in vrchat and after messing around with using an old phone as a [hip tracker](https://play.google.com/store/apps/details?id=org.ovrgyrotrackersync&hl=en_GB) and enjoying the increased feeling of presence in VR, I decided I'd like to get a full set of [slime trackers](https://slimevr.dev/), however being the techy person I am, and considering that slimeVR trackers are open source, I decided it would be a fun project to make some from "scratch".
+I quite enjoy playing games in VR, I sometimes hang out and chat with my friend [Rosia](https://Rosia.me) in vrchat and after messing around with using an old phone as a [hip tracker](https://play.google.com/store/apps/details?id=org.ovrgyrotrackersync&hl=en_GB) and enjoying the increased feeling of presence in VR, I decided I'd like to get a full set of [slime trackers](https://slimevr.dev/), however being the techy person I am, and considering that slimeVR trackers are open source, I decided it would be a fun project to make some from "scratch".
 
 # Cheescake tracker
 
