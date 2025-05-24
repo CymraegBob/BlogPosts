@@ -61,3 +61,5 @@ The FAUV, oh the FAUV, bane and joy of my existence.
 The xArm test rig was the last project I worked on at Ystumtec, it is an automated multi sample liquid testing device.
 
 It automatically performs tests on trays of up to 120 samples, by using a robotic arm to open samples, pickup and manipulate a series of tools, administer and mix liquids with samples and measure the results, the results of which are then populated into a report. The intent for this system is to be ran unattended overnight so reliability was paramount.
+
+For this project, I produced the GUI, interfaced with the sampling equipment, controlled the xArm, custom shaker table, fluid dispensing and extraction nozzles and automated reporting of sample data.

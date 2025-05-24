@@ -1,11 +1,11 @@
 P
-<!-- # Scribbled Line
+# Scribbled Line
 This is my scribbled line, its a collection of things I find interesting or want to remember. Here you can find a good summary of my world views in the writings I find important and things I just think are neat.
 
 ## Pages
 - [Clear Line](ClearLine.html), A more strictly outlined set of views I hold, along with evidence I use to justify them to myself.
 - [Quotes](Quotes.html), A list of quotes I like.
-
+<!-- 
 ----
 ## Important things
 
@@ -40,7 +40,7 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Predator drones run linux](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
 - [The sustainability of the commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 - [How to kill an decentralised network](https://rosia.me:7777/feed/38/entry/1390), a post about how companies purposefully kill off foss software
-
+ -->
 
 ____
 ## Less important side notes
@@ -70,4 +70,4 @@ ____
 - [Wifi only works when its raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Magic switch](magic-switch.txt)
 
- -->
+

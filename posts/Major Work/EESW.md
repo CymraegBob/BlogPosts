@@ -29,7 +29,7 @@ We also as winners of the local wales competition got to move on to the national
 
 If you're truly interested in reading the full report on a project some student made in 2016 (or seeing an embarrassing old photo), you can find that [here.](EESW.pdf)
 
-# Summer school
+## Summer school
 
 Following on from the EESW project, I stayed on to attend the 2016 PAWB photonics summer school, an intensive four week course where each student got to develop a variety of electronics skills and physics knowledge by producing our own complete bespoke project.
 
@@ -41,7 +41,7 @@ Although the concept was relatively simple, the fine detail engineering proved t
 
 In the end I was able to produce a working if finicky prototype.
 
-# Visiting Parliament
+## Visiting Parliament
 
 As a result of my involvement with PAWB, I was invited by Qioptiq (industry partner) to attend an all party parliamentary group meeting on the photonics industry to share with MPs my insights and experience with the industry as a student.
 
