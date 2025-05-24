@@ -19,8 +19,9 @@ Things I'm proud of:
 
 - [My time with PAWB](EESW.html)
 - [My work at Ystumtec](Ystumtec.html)
+- [My homelab](Homelab.html) 
 - [Hosting the Aber Webring](https://aberwebr.ing)
-<!-- - [My homelab](Homelab.html)  -->
+
 
 My thoughts:
 - [Scribbled Line](ScribbledLine.html)
