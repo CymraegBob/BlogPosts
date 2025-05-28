@@ -5,12 +5,15 @@ P
 
 I'm Robyn Vaughan-Williams, I've been a few things now, student, baker, programmer. Grew up in the mountains of Eryri national park, off grid, making our own power, water, no landline but always a deep interest in computers. I graduated from Aberystwyth university with a degree in space science and robotics, which is a much fancier title than reality.
 
-
 <img src="images/profilePic2.jpeg" alt="A picture of me in the Athro Lounge Aberystwyth, I'm wearing a colorful patchwork shirt.">
 
 My "work" interests range from robotics and various embedded systems to VR technology, open source hardware and software and selfhosting.
 
 Outside of work, I find great joy in storytelling in all it's mediums from audiobooks and full cast audio stories to tv and computer games, baking and cooking (feeding people makes me happy), pottery, community, helping others.
+
+<img src="images/CompsciPhoto.jpeg" alt="A picture of me end of final year of university in the group photo for the computer science department.">
+
+Let me know if you can find me!
 
 <!-- Most of my interests lie in using robotics and computers in farming, exploring how they could help produce more food in a sustainable manner. I feel that computers and automation really could help produce a green
 world where people can easily afford the bare minimum and find themselves comfortable and happy.

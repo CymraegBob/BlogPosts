@@ -11,7 +11,7 @@ While at FOSDEM 2025, I attend a talk by the team at [Immich](https://immich.app
 
 Having no experiance with hosting any kind of service or homelabbing before, I didn't really know what there was in terms of different technologies, but I knew Immich needed Docker, and had heard a lot of talk about it from some friends, so I figured it can't be that hard and that I could probably get it to work for myself. I was only half wrong.
 
-Over the course of a month I did a lot of messing around, making mistakes, breaking things that had worked for a few days, reinstalling my OS a few times and pestering my friends for help, I wound up with a fairly functional homelab that I'm proud enough of to even host services for friends on.
+Over the course of a month I did a lot of messing around, making mistakes, breaking things that had worked for a few days, reinstalling my OS a few times and pestering my [friend](oscar.blue) for help, I wound up with a fairly functional homelab that I'm proud enough of to even host services for friends on.
 
 ## Full setup
 
