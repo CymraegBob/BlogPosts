@@ -1,9 +1,30 @@
 services:
+  anubis-CV:
+    image: ghcr.io/techarohq/anubis:latest
+    container_name: anubis-CV
+    hostname: anubis-CV
+#    user: "1000:1000"
+    environment:
+      ED25519_PRIVATE_KEY_HEX: "a46d2acfc9a4756e84020f7574449eb05d6bf192da385388dea0acb7916fadc0"
+      BIND: :80
+      DIFFICULTY: "4"
+      METRICS_BIND: :9090
+      SERVE_ROBOTS_TXT: "true"
+      TARGET: http://cv-website:80  # Corrected target name and protocol
+      #REDIRECT_DOMAINS: False
+      REDIRECT_DOMAINS: bobyn.uk,www.bobyn.uk
+    ports:
+      - 3030:80  # Anubis public HTTP
+      - 3031:443  # Uncomment for HTTPS, needs proper cert setup
+    networks:
+      - nginxreverseproxy_default
+
   cv-webserver:
     build:
       context: .
       dockerfile: Dockerfile
     image: cv-website
+#    user: "1000:1000"
     container_name: cv-website
     environment:
       - PUID=1000
@@ -11,9 +32,9 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./default.conf:/etc/nginx/conf.d/default.conf
-    ports:
-      - 8080:80  # Change if port 80 is in use
-      - 8443:443
+#    ports:
+#      - 80  # Expose HTTP for internal Anubis access
+ #     - 8443:443  # Optional if you want direct HTTPS to webserver
     networks:
       - nginxreverseproxy_default
     restart: unless-stopped
