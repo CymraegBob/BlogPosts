@@ -49,7 +49,6 @@ ____
 ### Interesting old internet things
 - [Red-bean](www.red-bean.com)
 - [Chiark/Greenend](https://www.chiark.greenend.org.uk/)
-- [Old usenet posts I host](UsenetPosts.html)
 
 ### Neat Permacomputing/culture things
 - [Tiny polish farm working on self-automation](https://www.agrokruh.sk/en/technologia/)

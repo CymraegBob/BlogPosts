@@ -49,6 +49,7 @@ For this project, I was tasked with writing the embedded C code (arduino C again
 After my final year of university I was offered a fulltime job with Ystumtec which having had such a good time of it in my industrial year, I was excited to return to.
 
 ## FAUV
+A project otherwise known as "how to implement many of the features of ROS from scratch for an even lower power system" was any of that a good idea? Probably not, but it's the direction I took things in.
 
 The FAUV or Fjord autonomous underwater vehicle was the main project I was assigned when starting at Ystumtec fulltime after graduation.
 
