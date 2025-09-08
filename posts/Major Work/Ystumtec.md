@@ -49,13 +49,54 @@ For this project, I was tasked with writing the embedded C code (arduino C again
 After my final year of university I was offered a fulltime job with Ystumtec which having had such a good time of it in my industrial year, I was excited to return to.
 
 ## FAUV
-A project otherwise known as "how to implement many of the features of ROS from scratch for an even lower power system" was any of that a good idea? Probably not, but it's the direction I took things in.
 
-The FAUV or Fjord autonomous underwater vehicle was the main project I was assigned when starting at Ystumtec fulltime after graduation.
+I can't go into too much detail on this, but I can outline the project and talk about my experiance and planning.
 
-The FAUV, oh the FAUV, bane and joy of my existence.
+# Overview
+
+The FAUV or Fjord autonomous underwater vehicle was the main project I was assigned when starting at Ystumtec fulltime after graduation. A sequel to a previous the GROV or glacier Remote Operated Vehicle, this time with the much more challenging requirement of complete autonomy, no wires, no monitoring, complete trust, and so the FAUV.
+A project which became to me otherwise known as "how to implement many of the features of ROS from scratch for an even lower power system" was any of that a good idea? Probably not, but it's the direction I took things in.
 
 <img src="images/FAUV.jpg" alt="Picture of the FAUV out being tested.">
+
+To briefly outline the the requirements:
+
+- Complete autonomy, follow programmed routes with risk avoidant decision making (obstacle avoidance and fault monitoring).
+- 1000m depth.
+- 25km round trips.
+- 24hr missions.
+
+Much like all good projects of sufficient size, this was a team effort with my focus on the software and others designing and constructing the hardware, but in terms of the hardware I had to play with there was:
+
+- Rudder and Thruster.
+- Ballast control system.
+- Pitch control system.
+- Forward facing sonar array.
+- Wide angle survey sonar facing downwards.
+- Conductivity, Temperature and depth sensor.
+- Doppler velocity logger.
+- Inertial measurment system.
+- GPS (doesn't work underwater).
+- Wifi antenna.
+- Irridium modem.
+- Radio.
+- Pile of arduinos.
+
+All of which are wired into two rasperry pi's, alone it's a mess of parts, but stick it all together in an aluminium tube and some 3d printed parts and you have a FAUV. Once you've got all of that, that's where my job really started, however when I first started with Ystumtec, the project was very much still in the design phase, so I had to spend the better part of a year writing software in anticipation of hardware that wasn't fully settled yet and in order to test that software, I wrote a basic simulator from sctratch.
+
+# Simulator phase
+
+In order to write any real control systems or behaviours, especially without any hardware, I knew I'd have to resort to simulations.
+
+Based on my experiance from my university major project, I knew there wasn't much in the way of cheap comprehensive simulators for aquatic robotics, so I decided, perhapes foolishly to make somthing bespoke. All of the simulation code was written in python, I used a world model based on bathymetry data of the target fjord, wrote a simple physics system to account for gravity, buoyancy, varying tides and thrusters and simulated sensors. 
+
+The physics simulations where based on simple assumptions about the submarines capabilities and dimensions, I didn't need it to be accurate, just accurate enough that I'd get somthing that could be adjusted once we got the real hardware out on the water. Sensor simulations focused mostly on data structures as their true behaviours where too complex to be easily simulated and the goal was more focused on integrating sensor data into the controller code, the only sensor that had any depth to it's simulation was the sonar, which used ray tracing to actually ping sonar beams against the bathymetry model.
+
+The intent was to write the hardware simulations in a way that minimized the difficulty in transitioning from my own made up hardware behaviors to the real deal, of course I knew when I was doing it, that wouldn't be as easy as that.
+
+# Finally, some real hardware
+
+# Water testing
 
 ## xArm Test Rig
 
