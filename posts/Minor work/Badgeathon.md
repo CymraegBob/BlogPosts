@@ -41,6 +41,8 @@ The TFT and XPT2046 libraries provide really clean methods for extracting the lo
 
 For color changing on implemented the lvgl library to have a color slider and had TFT draw a block of pixels by the slider as a color preview, this proved to be fiddly as lvgl and tft libraries defined their coordinate systems with different origins. This section I developed myself while Rosia worked on networking.
 
+<img src="images/CYDCat.jpg" alt="A cat drawn on the CYD screen.">
+
 ### Network coms
 
 Esp has a neat lil' protocol called esp_now. According to Duncan, this works by sending out invalid wifi discovery frames with whatever data it wants in. Because these frames dont follow the standard they should, wifi routers ignore them, but the esp listens out for them and just grabs whatever data is in them.
