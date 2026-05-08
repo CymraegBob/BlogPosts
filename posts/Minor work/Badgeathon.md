@@ -58,7 +58,7 @@ Then you have a "send" method which takes numbers (which are secretly our struct
 win ig
 ### The Code
 
-Mine and Rosias project can be found on her [https://repos.rosia.me/Bobyn/CYDhackathon](forgejo) instance.
+Mine and Rosias project can be found on her [forgejo](https://repos.rosia.me/Bobyn/CYDhackathon) instance.
 
 <img src="images/CYDMess.jpg" alt="A mess at the hackathon, boxes and paper.">
 <img src="images/CYDRosiaSuffering.jpg" alt="Rosia suffering in a room full of people coding">
