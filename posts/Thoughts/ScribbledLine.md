@@ -1,6 +1,6 @@
 P
 # Scribbled Line
-This is my scribbled line, its a collection of things I find interesting or want to remember. Here you can find a good summary of my world views in the writings I find important and things I just think are neat.
+This is my scribbled line, it's kind of like a page in a notebook that I've scribbled down things down in if I find them to be intresting or meaningful, but now it's public on the internet, because that seemed like a good idea. So yeah, if I find an intresting comic, or essay, or video that really stuck with me, you may find it here.
 
 ###### Note: this page is alive.
 
@@ -26,22 +26,24 @@ This is my scribbled line, its a collection of things I find interesting or want
 - [Against his-story, Against Leviathan!](http://noblesavagery.blogspot.com/2007/03/fredy-perlmans-against-his-story.html) This is possibly the strongest narrative for properly emotionally integrating this point into your world-view, though the book itself is incredibly biased and a bit unhinged. Would recommend chapter 1 or 23 specifically, 23 especially.
 - [Twitter thread on african architecture](https://x.com/Vincredible__/status/1167748981188902914) -->
 
+<!--
 ### Anti-Growth, Small-Web, Small-Tech
 - [Factorio hate-post](https://reincantamentox.substack.com/p/drop-13-divine-automation) I still like playing factorio tho
 - [The reckless, infinite scope of web browsers](https://drewdevault.com/2020/03/18/Reckless-limitless-scope.html)
 - [Fucking webmaster](https://justinjackson.ca/webmaster/)
 - [Programming is forgetting](http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/) A really amazing critique/rethinking of hacker culture
 - [A society that lost focus](https://ploum.net/2024-03-18-lost-focus.html) - A blog post complaining about the attention economy, reading it makes me want to stop owning a phone
-
+-->
 <!-- ### The value of community
 - [Transcender manifesto](https://digital-anthropology.me/2019/03/13/a-transcender-manifesto-for-a-world-beyond-capitalism-a-seed/)
 - [The sky is falling, we've got this](https://margaretkilljoy.substack.com/p/the-sky-is-falling-weve-got-this) -->
 
+<!--
 ### The merits of open source
 - [Predator drones run linux](https://j3s.sh/thought/drones-run-linux-free-software-isnt-enough.html)
 - [The sustainability of the commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 - [How to kill an decentralised network](https://rosia.me:7777/feed/38/entry/1390), a post about how companies purposefully kill off foss software
-
+-->
 
 ____
 ## Less important side notes
@@ -65,7 +67,7 @@ ____
 - [OurPaint - FOSS Node based painting software](https://www.wellobserve.com/index.php?post=20221222155743)
 - [Egotistical but funny rant about low level programming](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 
-### Stories where programs defy reality
+### Computer behaviour extending into the surreal
 - [Email wont go further than 500 miles](500-miles.txt)
 - [Wifi only works when its raining](https://predr.ag/blog/wifi-only-works-when-its-raining/)
 - [Magic switch](magic-switch.txt)
