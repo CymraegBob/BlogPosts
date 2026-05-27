@@ -18,6 +18,7 @@ services:
       - 3031:443  # Uncomment for HTTPS, needs proper cert setup
     networks:
       - nginxreverseproxy_default
+    restart: unless-stopped
 
   cv-webserver:
     build:
@@ -32,9 +33,6 @@ services:
       - TZ=Etc/UTC
     volumes:
       - ./default.conf:/etc/nginx/conf.d/default.conf
-#    ports:
-#      - 80  # Expose HTTP for internal Anubis access
- #     - 8443:443  # Optional if you want direct HTTPS to webserver
     networks:
       - nginxreverseproxy_default
     restart: unless-stopped
