@@ -30,6 +30,10 @@ My thoughts:
 
 <!-- - [Permacomputing](Permacomputing.html) -->
 
+## What I'm up to lately:
+ - Working for a smart bee hive sensor company making backend infrastructure (part time).
+ - Renovating my parents off grid home (emptying out sheds and storage rooms, settting up sensors).
+
 
 
 
