@@ -11,6 +11,7 @@ This is a lsit of books and audio works (I mainly listen to audiobooks so it's a
 
 
 ## 2025
+ - Fallout: Equestria by Kkat
  - Bee Speaker by Adrian Tchaikovsky.
  - Bear Head by Adrian Tchaikovsky.
  - Dogs of War by Adrian Tchaikovsky.
