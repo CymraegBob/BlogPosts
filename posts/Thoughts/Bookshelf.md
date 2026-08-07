@@ -4,6 +4,8 @@ p
 This is a lsit of books and audio works (I mainly listen to audiobooks so it's about the same) I've "read", maybe some thoughts.
 
 ## 2026
+ - Avatar: The Last Airbender: The Rise of Kyoshi by F. C. Yee: A fun story that expands the universe of the ATLA series.
+ - Elder Race by Adrian Tchaikovsky: An interesting dual perspective story about how different cultural viewpoints and contexts can reframe the same situation, are they a wizard or a scientist?
  - Everything is Tuberculosis by John Greene: The world really is an interconnected web of issues but we really should be doing better at solving the real problems like healthcare inequality.
  - Saturation point by Adrian Tchaikovsky.
  - Children of strife by Adrian Tchaikovsky: What if AI tech bros vibe coded an entire planatery eco-system/super-computer, out of desperation uploaded their minds into it to stay alive, and became a horrific pantheon of monsters.
