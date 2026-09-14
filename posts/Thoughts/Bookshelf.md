@@ -4,8 +4,14 @@ p
 This is a lsit of books and audio works (I mainly listen to audiobooks so it's about the same) I've "read", maybe some thoughts.
 
 ## 2026
+ - The Infinite Extent by Dennis E. Taylor: 
+ - Blame! by Tsutomu Nihei: An iconic story again set in a a decaying endless megacity, fascinated by how a post collapse society rebuilds itself in the shell of its predecessor, how context and understanding can be lost and new meaning found. Incredible art style if a little hard to follow at times.
+ - Girls last tour by Tsukumizu: A story about precarity and hope in the industrial decay of a layer megacity, finding meaning and purpose at the end of civilisation. A really interesting look into how culture and technology alongside the understanding of it can fall away over time.
+ - Engines of Reason by Adrian Tchaikovsky (Sequel to Elder Race): A look into how the cultural stories we tell about ourselves frame identity and purpose in life, great followup to the previous book with great framing for more.
+ - Witch Hat Atelier by Kamome Shirahama: What if magic was a programming language, also a lovely story about the joys of artistic creation, perseverance and friendship.
+ - Avatar: The Shadow of Kyoshi: Followup to previous book, little more repetative plot but an interesting look into fire nation culture.
  - Avatar: The Last Airbender: The Rise of Kyoshi by F. C. Yee: A fun story that expands the universe of the ATLA series.
- - Elder Race by Adrian Tchaikovsky: An interesting dual perspective story about how different cultural viewpoints and contexts can reframe the same situation, are they a wizard or a scientist?
+ - Elder Race by Adrian Tchaikovsky: A dual perspective story about how different cultural viewpoints and contexts can reframe the same situation, are they a wizard or a scientist?
  - Everything is Tuberculosis by John Greene: The world really is an interconnected web of issues but we really should be doing better at solving the real problems like healthcare inequality.
  - Saturation point by Adrian Tchaikovsky.
  - Children of strife by Adrian Tchaikovsky: What if AI tech bros vibe coded an entire planatery eco-system/super-computer, out of desperation uploaded their minds into it to stay alive, and became a horrific pantheon of monsters.
