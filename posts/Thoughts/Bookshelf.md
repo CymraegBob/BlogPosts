@@ -47,6 +47,7 @@ This is a lsit of books and audio works (I mainly listen to audiobooks so it's a
  - All These Worlds by Dennis E. Taylor.
  - For We Are Many by Dennis E. Taylor
  - We Are Legian (We are Bob) by Dennis E. Taylor: one guess why this series intrested me.
+ - Rendezvous with Rama by Arthur C. Clarke.
  - The Entire Expanse series and short stories.
  - Thrawn, Thrawn: Aliances and Thrawn: Treason by Timothy Zahn.
  - Heir to the empire, Dark Force Rising, The Last command by Timthy Zahn.

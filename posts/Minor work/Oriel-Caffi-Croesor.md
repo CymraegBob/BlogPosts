@@ -8,3 +8,6 @@ During my time at college I sort of fell into a job as a baker at my friends caf
 I found it all to be a really valuable experience and space to grow as a young adult, gain confidence and independence, eventually they even trusted me with keys so I could come in early to setup, build a fire and bake bread and cakes for the day.
 
 <img src="images/Caffi2.jpg" alt="Me working the counter">
+
+I should probably add some recepies here one day....
+
