@@ -7,7 +7,7 @@ I'm Robyn Vaughan-Williams, I've been a few things now, student, baker, programm
 
 <figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
   <img
-    src="images/profilePic2.jpeg"
+    src="images/profilePic2.jpg"
     alt="A picture of me relaxing in the sun on the cambrdige commons in a cute dress."
     style="width:100%; height:auto; display:block" />
   <figcaption style="text-align:center">A picture of me relaxing in the sun on the cambrdige commons in a cute dress.</figcaption>
@@ -19,7 +19,7 @@ Outside of work, I find great joy in storytelling in all it's mediums from audio
 
 <figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
   <img
-    src="images/CompsciPhoto.jpeg"
+    src="images/CompsciPhoto.jpg"
     alt="A picture of me end of final year of university in the group photo for the computer science department."
     style="width:100%; height:auto; display:block" />
   <figcaption style="text-align:center">A picture of me end of final year of university in the group photo for the computer science department.</figcaption>
