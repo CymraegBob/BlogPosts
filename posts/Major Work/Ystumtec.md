@@ -16,13 +16,25 @@ The concept for the GPS collar project was to make a low cost, low power, remote
 - A remote base station (also atmega328p) that collars would attempt to contact every time they woke up to offload a distributed sampling of their recorded data to.
 - The collar had a remote release system that could be triggered by low battery or remote communication with a base station.
 
-<img src="images/GPScollar.jpg" alt="Picture of the early GPS collar prototype board.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/GPScollar.jpg"
+    alt="Picture of the early GPS collar prototype board."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Picture of the early GPS collar prototype board.</figcaption>
+</figure>
 
 As a first project this was pretty much perfect for me, having already gotten a reasonable amount of experience writing arduino C as part of my first year of university and my robotics work in the robotics society. I got to learn a lot about low power radio transmission with a rfm95w, custom memory flash memory management and two way coms over radio.
 
 The radio project also involved a fair bit of fieldwork, range testing, testing the remote release, live testing on sheep which I really enjoyed.
 
-<img src="images/GPSbasestation.jpg" alt="Picture of the early GPS collar base station.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/GPSbasestation.jpg"
+    alt="Picture of the early GPS collar base station."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Picture of the early GPS collar base station.</figcaption>
+</figure>
 
 So Mark had me work on this project piecemeal over the summer and at the end of the summer he wound up offering me an industrial year job anyway, so I continued working on the GPS collar and a few other projects for the next year.
 
@@ -57,7 +69,14 @@ I can't go into too much detail on this, but I can outline the project and talk 
 The FAUV or Fjord autonomous underwater vehicle was the main project I was assigned when starting at Ystumtec fulltime after graduation. A sequel to a previous the GROV or glacier Remote Operated Vehicle, this time with the much more challenging requirement of complete autonomy, no wires, no monitoring, complete trust, and so the FAUV.
 A project which became to me otherwise known as "how to implement many of the features of ROS from scratch for an even lower power system" was any of that a good idea? Probably not, but it's the direction I took things in.
 
-<img src="images/FAUV.jpg" alt="Picture of the FAUV out being tested.">
+
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/FAUV.jpg"
+    alt="Picture of the FAUV out being tested."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Picture of the FAUV out being tested.</figcaption>
+</figure>
 
 To briefly outline the the requirements:
 

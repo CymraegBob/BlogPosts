@@ -15,17 +15,35 @@ Ray was my first mentor who I truly felt supported by and that showed me what I 
 
 For my groups project, we settled on a reasonably simple design, employing polarized light via Malus law as a mechanism for selecting musical notes to be played. Our device, that we nicknamed the "octapus" (it played eight notes) was operated by moving a mechanical slide that rotated one one of a pair of polaroid filters which had a coherent laser beam passing through them into a photodiode, by this action the change in intensity of light was able to be mapped to different musical notes.
 
-<img src="images/Malus.png" alt="A diagram depicting Malus law ">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/Malus.png"
+    alt="A diagram depicting Malus law"
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">A diagram depicting Malus law</figcaption>
+</figure>
 
 For this project, my teammates worked on the mechanical slide mechanism and I worked on the electronics, taking simple circuit diagrams provided by Ray and chaining them together to properly interpret the light from the photodiode and to produce musical notes. As part of this project we had to employ a lot of newly developed skills, from logic gates to oscilloscopes.
 
-<img src="images/EESW.jpg" alt="Me and my teammate Stephanie at the big bang fair with the Octapus">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/EESW.jpg"
+    alt="Me and my teammate Stephanie at the big bang fair with the Octapus"
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Me and my teammate Stephanie at the big bang fair with the Octapus</figcaption>
+</figure>
 
 In the end I think we did pretty well, having won *Best solution to the project set* and *Best display of technology* as well as runner up for *Best written report* and from here I was made runner up for EESW best young engineer of the year.
 
 We also as winners of the local wales competition got to move on to the national competition at the big bang fair at the NEC in Birmingham in 2017, sadly the other projects there that year where much more impressive than our own, but it was a good experience, and certainly contributed to the sense of achievement in our young selves.
 
-<img src="images/octapus.jpg" alt="The finished OCTAPUS.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/octapus.jpg"
+    alt="The finished OCTAPUS."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">The finished OCTAPUS.</figcaption>
+</figure>
 
 If you're truly interested in reading the full report on a project some student made in 2016 (or seeing an embarrassing old photo), you can find that [here.](EESW.pdf)
 
@@ -37,7 +55,13 @@ For my project, I settled on trying to use polarized light and a unique property
 
 Although the concept was relatively simple, the fine detail engineering proved to be more difficult, having issues with laser beam alignment and circuit sensitivity to noise and I was sadly not able to finish my project in the 4 week duration of the summer school. I continued to work on my project off and on for the remainder of my time at coleg menai and was also given the opportunity to mentor students in the following years summer school as well as for a Nuffield bursary short course.
 
-<img src="images/compass.jpg" alt="The complete prototype of the COMPASS project.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/compass.jpg"
+    alt="The complete prototype of the COMPASS project."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">The complete prototype of the COMPASS project.</figcaption>
+</figure>
 
 In the end I was able to produce a working if finicky prototype.
 
@@ -45,5 +69,19 @@ In the end I was able to produce a working if finicky prototype.
 
 As a result of my involvement with PAWB, I was invited by Qioptiq (industry partner) to attend an all party parliamentary group meeting on the photonics industry to share with MPs my insights and experience with the industry as a student.
 
-<img src="images/parliment1.jpg" alt="A picture of me in front of our stand inside parliament.">
-<img src="images/parliment2.jpg" alt="A picture of me standing on outside the conservatory in parliament.">
+<div style="float:right; margin:0 0 1rem 1.5rem; width:60%; max-width:600px; display:flex; gap:1rem">
+  <figure style="margin:0; flex:1">
+    <img
+      src="images/parliment1.jpg"
+      alt="A picture of me in front of our stand inside parliament."
+      style="width:100%; height:auto; display:block" />
+    <figcaption style="text-align:center">A picture of me in front of our stand inside parliament.</figcaption>
+  </figure>
+  <figure style="margin:0; flex:1">
+    <img
+      src="images/parliment2.jpg"
+      alt="A picture of me standing on outside the conservatory in parliament."
+      style="width:100%; height:auto; display:block" />
+    <figcaption style="text-align:center">A picture of me standing on outside the conservatory in parliament.</figcaption>
+  </figure>
+</div>
