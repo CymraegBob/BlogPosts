@@ -8,9 +8,9 @@ I'm Robyn Vaughan-Williams, I've been a few things now, student, baker, programm
 <figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
   <img
     src="images/profilePic2.jpg"
-    alt="A picture of me relaxing in the sun on the cambrdige commons in a cute dress."
+    alt="A picture of me relaxing in the sun on the Cambridge commons in a cute dress."
     style="width:100%; height:auto; display:block" />
-  <figcaption style="text-align:center">A picture of me relaxing in the sun on the cambrdige commons in a cute dress.</figcaption>
+  <figcaption style="text-align:center">A picture of me relaxing in the sun on the Cambridge commons in a cute dress.</figcaption>
 </figure>
 
 My "work" interests range from robotics and various embedded systems to VR technology, open source hardware and software and selfhosting.
@@ -26,16 +26,19 @@ Outside of work, I find great joy in storytelling in all it's mediums from audio
 
 Let me know if you can find me!
 
-<!-- Most of my interests lie in using robotics and computers in farming, exploring how they could help produce more food in a sustainable manner. I feel that computers and automation really could help produce a green
-world where people can easily afford the bare minimum and find themselves comfortable and happy.
+I find a lot of joy in electronics and robotics, my degree is in space science and robotics, my projects often focus on how to reuse cheap components, make life in my parents off grid house easier and of late I've been falling down the homelabbing rabbit hole. I think the technology exists to build the kind of world we want, where people can be happy, healthy and comfortable and that it's up to us to experiment and innovate.
 
-My physical work involves:
+I have a bad habbit of poorly documenting my projects and this website is in part an attempt to make myself be better at that. Some of my projects include:
 
-- Learning how robotics can work in [real world environments](SailBot.html)
-- Experimenting with how we can use computers in [environmentally sustainable](Permacomputing.html) ways,
-- Teaching myself to create [low-power/high efficiency programs](ThisSite.html) and robotics,
-- Learning about ideas behind farming automation and how we can produce more food whilst keeping our methods sustainable, becoming an active member of communities such as [TwistedFields](https://community.twistedfields.com/t/welcome-to-the-twisted-fields-community-forum/7),
+- [Recycling vape batteres](Vape-battery.html).
+- [Implementing open source projects](Vr-Trackers.html).
+- [My home lab](Homelab.html).
+- Building smart home sensors.
+- [Building communites](Robotics-Society.html)
+- Doing some less serious [art](Pottery.html)
+- [Musical electronics](EESW.html)
 
-I've been programming for most of my life. My main language is C++, but I also have multiple years of experience in C#, Python and Java and some loose experience in Typescript and C.
+I've been tinkering and learning for most of my life, having grown up off the grid I have what I feel is a unique perspective on technology and sustainability. I'm loosely skilled in computing (C, python, Java, Linux) and electronics, good and badge bodge jobs and making something out of nothing.
 
-To see all of my work, check the navbox -->
+To see some of my work, check the navbox 
+
