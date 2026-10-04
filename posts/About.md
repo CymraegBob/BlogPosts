@@ -5,13 +5,24 @@ P
 
 I'm Robyn Vaughan-Williams, I've been a few things now, student, baker, programmer. Grew up in the mountains of Eryri national park, off grid, making our own power, water, no landline but always a deep interest in computers. I graduated from Aberystwyth university with a degree in space science and robotics, which is a much fancier title than reality.
 
-<img src="images/profilePic2.jpeg" alt="A picture of me in the Athro Lounge Aberystwyth, I'm wearing a colorful patchwork shirt.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/profilePic2.jpeg"
+    alt="A picture of me relaxing in the sun on the cambrdige commons in a cute dress."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">A picture of me relaxing in the sun on the cambrdige commons in a cute dress.</figcaption>
+</figure>
 
 My "work" interests range from robotics and various embedded systems to VR technology, open source hardware and software and selfhosting.
 
 Outside of work, I find great joy in storytelling in all it's mediums from audiobooks and full cast audio stories to tv and computer games, baking and cooking (feeding people makes me happy), pottery, community, helping others.
 
-<img src="images/CompsciPhoto.jpeg" alt="A picture of me end of final year of university in the group photo for the computer science department.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/CompsciPhoto.jpeg"
+    alt="A picture of me end of final year of university in the group photo for the computer science department."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">A picture of me end of final year of university in the group photo for the computer science department.</figcaption>
 
 Let me know if you can find me!
 
