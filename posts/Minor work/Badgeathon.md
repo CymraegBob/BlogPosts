@@ -13,8 +13,21 @@ We were presented with some new hardware:
 
 The CYD is an adorable little board with:
 
-<img src="images/CYDFront.jpg" alt="Front of the CYD board">
-<img src="images/CYDBack.jpg" alt="Back of the CYD board.">
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/CYDFront.jpg"
+    alt="Front of the CYD board"
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Front of the CYD board</figcaption>
+</figure>
+
+<figure style="float:left; margin:0 1.5rem 1rem 0; width:40%; max-width:400px">
+  <img
+    src="images/CYDBack.jpg"
+    alt="Back of the CYD board."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Back of the CYD board.</figcaption>
+</figure>
 
 1. ESP32 (ESP32-2432S028R if your being fussy)
 2. 320 x 240 LCD Display (2.8")
@@ -40,8 +53,14 @@ To do this we first looked at example code for drawing on the screen and detecti
 The TFT and XPT2046 libraries provide really clean methods for extracting the location on screen the user is pressing as well as for drawing new pixels on the display, so we had a stylus drawing on the screen basically at the start of the day. This section was pair proggramming
 
 For color changing on implemented the lvgl library to have a color slider and had TFT draw a block of pixels by the slider as a color preview, this proved to be fiddly as lvgl and tft libraries defined their coordinate systems with different origins. This section I developed myself while Rosia worked on networking.
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/CYDCat.jpg" 
+    alt="A cat drawn on the CYD screen."
+    style="width:400px; max-width:100%; display:block" />
+  <figcaption style="text-align:center">A cat drawn on the CYD screen.</figcaption>
+</figure>
 
-<img src="images/CYDCat.jpg" alt="A cat drawn on the CYD screen.">
 
 ### Network coms
 
@@ -62,7 +81,21 @@ win ig
 
 Mine and Rosias project can be found on her [forgejo](https://repos.rosia.me/Bobyn/CYDhackathon) instance.
 
-<img src="images/CYDMess.jpg" alt="A mess at the hackathon, boxes and paper.">
-<img src="images/CYDRosiaSuffering.jpg" alt="Rosia suffering in a room full of people coding">
+
+<figure style="float:right; margin:0 0 1rem 1.5rem; width:40%; max-width:400px">
+  <img
+    src="images/CYDMess.jpg"
+    alt="A mess at the hackathon, boxes and paper."
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">A mess at the hackathon, boxes and paper.</figcaption>
+</figure>
+
+<figure style="float:left; margin:0 1.5rem 1rem 0; width:40%; max-width:400px">
+  <img
+    src="images/CYDRosiaSuffering.jpg"
+    alt="Rosia suffering in a room full of people coding"
+    style="width:100%; height:auto; display:block" />
+  <figcaption style="text-align:center">Rosia suffering in a room full of people coding</figcaption>
+</figure>
 
 <iframe src="https://imich.bobyn.uk/s/badgeathon" title="Imich album"></iframe> 
