@@ -24,9 +24,6 @@ Things I'm proud of:
 
 
 My thoughts:
-<!---
-- [Scribbled Line](ScribbledLine.html)
--->
 - [Quotes I like](Quotes.html)
 - [Silly things I find funny](silly-stuff.html)
 
